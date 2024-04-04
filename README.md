@@ -23,13 +23,13 @@ cd LSC2DDS-Converter
 Convert a single LSC file to DDS:
 
 ```bash
-./"LSC2DDS Converter.exe" -s [LSC file path] [Output DDS file name]
+"LSC2DDS Converter.exe" -s [LSC file path] [Output DDS file name]
 ```
 
 Convert all LSC files in a directory:
 
 ```bash
-./"LSC2DDS Converter.exe" -d [Directory containing LSC files]
+"LSC2DDS Converter.exe" -d [Directory containing LSC files]
 ```
 
 ### Examples
@@ -37,13 +37,13 @@ Convert all LSC files in a directory:
 - Converting a single file:
 
 ```bash
-./"LSC2DDS Converter.exe" -s example.lsc example.dds
+"LSC2DDS Converter.exe" -s example.lsc example.dds
 ```
 
 - Converting multiple files in a directory:
 
 ```bash
-./"LSC2DDS Converter.exe" -d ./lsc_files
+"LSC2DDS Converter.exe" -d ./lsc_files
 ```
 
 ### Original Source
